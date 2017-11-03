@@ -1,0 +1,28 @@
+{
+  "name": "places",
+  "version": "1.0.0",
+  "description": "Places API for google",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.2",
+    "cors": "~2.8.3",
+    "express": "~4.15.3",
+    "latlon-geohash": "^1.1.0",
+    "mongoose": "~4.11.0",
+    "request": "^2.83.0"
+  },
+  "author": "Nithin",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roppenlabs/places.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roppenlabs/places/issues"
+  },
+  "homepage": "https://github.com/roppenlabs/places#readme"
+}
